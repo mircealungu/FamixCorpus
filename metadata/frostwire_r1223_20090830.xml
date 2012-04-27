@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<system>
+	<name>frostwire_r1223_20090830</name>
+	<language>Java</language>
+	<description></description>
+	<startingDate></startingDate>
+	<numberOfDevelopers></numberOfDevelopers>
+	<website></website>
+	<versions>
+		<version>
+			<identification>
+				<date></date>
+				<vcs></vcs>
+				<repository></repository>
+				<version></version>
+			</identification>
+			<model>
+				<file>
+					<name>frostwire_r1223_20090830.mse</name>
+					<format>MSE1.0</format>
+				</file>
+				<metamodel>FAMIX2.1</metamodel>
+				<parser>
+					<name>inFusion</name>
+					<version>7.2.1</version>
+				</parser>
+				<particularities></particularities>
+				<contributor>Richard Wettel</contributor>
+				<properties>
+					<property>
+						<name>Number of packages</name>
+						<type>absolute</type>
+						<value>196</value>
+					</property>
+					<property>
+						<name>Number of classes</name>
+						<type>absolute</type>
+						<value>4304</value>
+					</property>
+					<property>
+						<name>Number of lines of code</name>
+						<type>absolute</type>
+						<value>275910</value>
+					</property>
+					<property>
+						<name>Number of (pure) brain classes</name>
+						<type>absolute</type>
+						<value>2</value>
+					</property>
+					<property>
+						<name>Number of (pure) god classes</name>
+						<type>absolute</type>
+						<value>84</value>
+					</property>
+					<property>
+						<name>Number of (both) brain and god classes</name>
+						<type>absolute</type>
+						<value>8</value>
+					</property>
+					<property>
+						<name>Number of data classes</name>
+						<type>absolute</type>
+						<value>154</value>
+					</property>
+					<property>
+						<name>Package nesting level</name>
+						<type>minimum</type>
+						<value>1</value>
+					</property>
+					<property>
+						<name>Package nesting level</name>
+						<type>maximum</type>
+						<value>7</value>
+					</property>
+					<property>
+						<name>Package nesting level</name>
+						<type>average</type>
+						<value>4.05</value>
+					</property>
+					<property>
+						<name>Package nesting level</name>
+						<type>stdev</type>
+						<value>1.12</value>
+					</property>
+					<property>
+						<name>Package nesting level</name>
+						<type>median</type>
+						<value>4.0</value>
+					</property>
+					<property>
+						<name>Number of methods per class</name>
+						<type>minimum</type>
+						<value>0.0</value>
+					</property>
+					<property>
+						<name>Number of methods per class</name>
+						<type>maximum</type>
+						<value>144.0</value>
+					</property>
+					<property>
+						<name>Number of methods per class</name>
+						<type>average</type>
+						<value>6.67</value>
+					</property>
+					<property>
+						<name>Number of methods per class</name>
+						<type>stdev</type>
+						<value>9.45</value>
+					</property>
+					<property>
+						<name>Number of methods per class</name>
+						<type>median</type>
+						<value>4.0</value>
+					</property>
+					<property>
+						<name>Number of attributes per class</name>
+						<type>minimum</type>
+						<value>0</value>
+					</property>
+					<property>
+						<name>Number of attributes per class</name>
+						<type>maximum</type>
+						<value>124</value>
+					</property>
+					<property>
+						<name>Number of attributes per class</name>
+						<type>average</type>
+						<value>3.16</value>
+					</property>
+					<property>
+						<name>Number of attributes per class</name>
+						<type>stdev</type>
+						<value>6.38</value>
+					</property>
+					<property>
+						<name>Number of attributes per class</name>
+						<type>median</type>
+						<value>1.0</value>
+					</property>
+					<property>
+						<name>Number of lines of code per class</name>
+						<type>minimum</type>
+						<value>0.0</value>
+					</property>
+					<property>
+						<name>Number of lines of code per class</name>
+						<type>maximum</type>
+						<value>1977.0</value>
+					</property>
+					<property>
+						<name>Number of lines of code per class</name>
+						<type>average</type>
+						<value>64.12</value>
+					</property>
+					<property>
+						<name>Number of lines of code per class</name>
+						<type>stdev</type>
+						<value>134.4</value>
+					</property>
+					<property>
+						<name>Number of lines of code per class</name>
+						<type>median</type>
+						<value>19.0</value>
+					</property>
+				</properties>
+			</model>
+		</version>
+	</versions>
+</system>

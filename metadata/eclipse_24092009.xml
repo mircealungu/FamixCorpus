@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<system>
+	<name>eclipse_24092009</name>
+	<language>Java</language>
+	<description></description>
+	<startingDate></startingDate>
+	<numberOfDevelopers></numberOfDevelopers>
+	<website></website>
+	<versions>
+		<version>
+			<identification>
+				<date>24.09.2009</date>
+				<vcs>CVS</vcs>
+				<repository>dev.eclipse.org (path /cvsroot/eclipse)</repository>
+				<version></version>
+			</identification>
+			<model>
+				<file>
+					<name>eclipse-skimmed.mse</name>
+					<format>MSE1.0</format>
+				</file>
+				<metamodel>FAMIX2.1</metamodel>
+				<parser>
+					<name>inFusion</name>
+					<version>7.2.3</version>
+				</parser>
+				<particularities>Excluded the files: org.eclipse.core.runtime.osgi/src/org/eclipse/core/internal/runtime/AdapterManager.java, org.eclipse.scripting/src/org/eclipse/scripting/internal/views/ScriptUIEditorActionManager.java, org.eclipse.scripting/src/org/eclipse/scripting/internal/views/ScriptUIEditorButtonPalette.java, org.eclipse.scripting/src/org/eclipse/scripting/internal/views/ScriptUIEditorContextContributor.java, org.eclipse.swt.examples/src/org/eclipse/swt/examples/graphics/CountDownTab.java, org.eclipse.swt.examples/src/org/eclipse/swt/examples/graphics/FontBounceTab.java, org.eclipse.swt.examples/src/org/eclipse/swt/examples/graphics/TextAntialiasTab.java, org.eclipse.vcm.core/src/org/eclipse/vcm/internal/core/Repository.java, org.eclipse.vcm.tests.core/src/org/eclipse/vcm/tests/core/VCMBlackBoxTest.java, org.eclipse.vcm.tests.core/src/org/eclipse/vcm/tests/core/adapter/IRepositoryAdapterTest.java, org.eclipse.vcm.tests.core/src/org/eclipse/vcm/tests/core/base/IMergeManagerTest.java, org.eclipse.vcm.tests.core/src/org/eclipse/vcm/tests/core/base/IRepositoryTest.java, org.eclipse.vcm.tests.core/src/org/eclipse/vcm/tests/core/base/IResourceEditionTest.java, org.eclipse.vcm.tests.core/src/org/eclipse/vcm/tests/core/base/ISharingManagerTest.java, org.eclipse.vcm.tests.core/src/org/eclipse/vcm/tests/core/base/ISubscriberTest.java, org.eclipse.vcm.tests.core/src/org/eclipse/vcm/tests/core/base/ITeamStreamTest.java, org.eclipse.vcm.tests.core/src/org/eclipse/vcm/tests/core/regression/Regressions.java, org.eclipse.vcm.ui/src/org/eclipse/vcm/internal/ui/DetailsDialog.java, org.eclipse.ltk.core.refactoring.tests/src/org/eclipse/ltk/core/refactoring/tests/participants/FailingParticipantTests.java (error during export)</particularities>
+				<contributor>Richard Wettel</contributor>
+				<properties>
+					<property>
+						<name>Number of packages</name>
+						<type>absolute</type>
+						<value>1800</value>
+					</property>
+					<property>
+						<name>Number of classes</name>
+						<type>absolute</type>
+						<value>27900</value>
+					</property>
+					<property>
+						<name>Number of lines of code</name>
+						<type>absolute</type>
+						<value>2871016</value>
+					</property>
+					<property>
+						<name>Number of (pure) brain classes</name>
+						<type>absolute</type>
+						<value>42</value>
+					</property>
+					<property>
+						<name>Number of (pure) god classes</name>
+						<type>absolute</type>
+						<value>1084</value>
+					</property>
+					<property>
+						<name>Number of (both) brain and god classes</name>
+						<type>absolute</type>
+						<value>150</value>
+					</property>
+					<property>
+						<name>Number of data classes</name>
+						<type>absolute</type>
+						<value>1763</value>
+					</property>
+					<property>
+						<name>Package nesting level</name>
+						<type>minimum</type>
+						<value>1</value>
+					</property>
+					<property>
+						<name>Package nesting level</name>
+						<type>maximum</type>
+						<value>11</value>
+					</property>
+					<property>
+						<name>Package nesting level</name>
+						<type>average</type>
+						<value>5.75</value>
+					</property>
+					<property>
+						<name>Package nesting level</name>
+						<type>stdev</type>
+						<value>1.2</value>
+					</property>
+					<property>
+						<name>Package nesting level</name>
+						<type>median</type>
+						<value>6.0</value>
+					</property>
+					<property>
+						<name>Number of methods per class</name>
+						<type>minimum</type>
+						<value>0.0</value>
+					</property>
+					<property>
+						<name>Number of methods per class</name>
+						<type>maximum</type>
+						<value>1488.0</value>
+					</property>
+					<property>
+						<name>Number of methods per class</name>
+						<type>average</type>
+						<value>8.43</value>
+					</property>
+					<property>
+						<name>Number of methods per class</name>
+						<type>stdev</type>
+						<value>23.17</value>
+					</property>
+					<property>
+						<name>Number of methods per class</name>
+						<type>median</type>
+						<value>4.0</value>
+					</property>
+					<property>
+						<name>Number of attributes per class</name>
+						<type>minimum</type>
+						<value>0</value>
+					</property>
+					<property>
+						<name>Number of attributes per class</name>
+						<type>maximum</type>
+						<value>1815</value>
+					</property>
+					<property>
+						<name>Number of attributes per class</name>
+						<type>average</type>
+						<value>4.23</value>
+					</property>
+					<property>
+						<name>Number of attributes per class</name>
+						<type>stdev</type>
+						<value>24.09</value>
+					</property>
+					<property>
+						<name>Number of attributes per class</name>
+						<type>median</type>
+						<value>1.0</value>
+					</property>
+					<property>
+						<name>Number of lines of code per class</name>
+						<type>minimum</type>
+						<value>0.0</value>
+					</property>
+					<property>
+						<name>Number of lines of code per class</name>
+						<type>maximum</type>
+						<value>48360.0</value>
+					</property>
+					<property>
+						<name>Number of lines of code per class</name>
+						<type>average</type>
+						<value>102.9</value>
+					</property>
+					<property>
+						<name>Number of lines of code per class</name>
+						<type>stdev</type>
+						<value>496.57</value>
+					</property>
+					<property>
+						<name>Number of lines of code per class</name>
+						<type>median</type>
+						<value>27.0</value>
+					</property>
+				</properties>
+			</model>
+		</version>
+	</versions>
+</system>
